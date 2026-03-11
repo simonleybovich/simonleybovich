@@ -4,14 +4,14 @@
   width="40"
 />
 
-⚡ Actualmente me encuentro en búsqueda de nuevos desafíos como Software
-Engineer, mi foco está en aprender y mejorar continuamente. ### 🛠️ Tecnologías y
-Herramientas que más uso
+⚡ Actualmente me encuentro en búsqueda de nuevos desafíos como Software Engineer, mi foco está en aprender y mejorar continuamente. 
+
+### 🛠️ Tecnologías y Herramientas que más uso
 <div align="center">
   <!-- .NET -->
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg"
-    alt="Dotnet"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
+    alt=".NET Core"
     width="40"
     height="40"
   />
