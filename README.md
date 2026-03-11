@@ -1,8 +1,4 @@
-## Buenas! Soy Simon Leybovich
-<img
-  src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
-  width="40"
-/>
+## Buenas! Soy Simon Leybovich <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40"/>
 
 ⚡ Actualmente me encuentro en búsqueda de nuevos desafíos como Software Engineer, mi foco está en aprender y mejorar continuamente. 
 
